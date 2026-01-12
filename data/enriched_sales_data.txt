@@ -1,0 +1,2 @@
+TransactionID|Date|ProductID|ProductName|Quantity|UnitPrice|CustomerID|Region|API_Category|API_Brand|API_Rating|API_Match
+T001|2024-12-01|P101|Laptop|2|45000.0|C001|North|laptops|Apple|4.7|True
