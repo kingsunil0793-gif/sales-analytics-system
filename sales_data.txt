@@ -1,10 +1,6 @@
 
 sales_data.txt
-Page
-1
-/
-1
-100%
+
 TransactionID|Date|ProductID|ProductName|Quantity|UnitPrice|CustomerID|Region
 T018|2024-12-29|P107|USB Cable|8|173|C009|South
 T063|2024-12-07|P110|Laptop Charger|6|1,916|C022|East
