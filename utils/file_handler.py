@@ -4,7 +4,7 @@ import re
 from typing import List, Dict, Tuple, Optional, Any
 
 
-def read_sales_data(filename: str = "sales_data.txt") -> List[str]:
+def read_sales_data(filename: str = "data/sales_data.txt") -> List[str]:
     """
     Reads the sales data file with multiple encoding attempts.
     Skips header line and empty lines.
